@@ -1,0 +1,16 @@
+ Le volume dans le lecteur C s'appelle OS
+ Le num‚ro de s‚rie du volume est AECE-AC69
+
+ R‚pertoire de C:\GIT\myproject\.git
+
+28/09/2021  02:36 PM               130 config
+28/09/2021  02:36 PM                73 description
+28/09/2021  03:08 PM                 0 fichier.txt
+28/09/2021  02:36 PM                23 HEAD
+28/09/2021  02:36 PM    <DIR>          hooks
+28/09/2021  02:36 PM    <DIR>          info
+28/09/2021  02:45 PM                 0 mnelson.txt
+28/09/2021  02:36 PM    <DIR>          objects
+28/09/2021  02:36 PM    <DIR>          refs
+               5 fichier(s)              226 octets
+               4 R‚p(s)  562ÿ645ÿ659ÿ648 octets libres
